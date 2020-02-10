@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/elyth4002
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rxcmr.github.io
+  * I am elyth4002 (https://keybase.io/elyth4002) on keybase.
+  * I have a public key ASBefFeFRGQfGCgUbZaZ5rpx-RbPmIOvDW526ZsWd6iDQgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e7c578544641f1828146d9699e6ba71f916cf9883af0d6e76e99b1677a883420a",
+      "host": "keybase.io",
+      "kid": "01205e7c578544641f1828146d9699e6ba71f916cf9883af0d6e76e99b1677a883420a",
+      "uid": "0c1f27668765e96684d6a2a2bb882d19",
+      "username": "elyth4002"
+    },
+    "merkle_root": {
+      "ctime": 1581344510,
+      "hash": "6afe091a30cc49b28cb402a8f479fb55e1cf3b1e6fdc637b44bb276cfb65dfb4037e222ed4537445cc201ea7a9d83253135be3bef1c1b0278e15301000e4c87a",
+      "hash_meta": "0c477ebf810acd01575b3fa4c61a2b9296cd81f4b3aa4282e0ab93cd18567460",
+      "seqno": 14553618
+    },
+    "service": {
+      "entropy": "/yH7ysz1EHepLfX0PAJJ85oS",
+      "hostname": "rxcmr.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581344522,
+  "expire_in": 504576000,
+  "prev": "c056e0b4ce14db92861b003235a30a59c59561fc48fec7ecd5bb3723cdaa9162",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXnxXhURkHxgoFG2Wmea6cfkWz5iDrw1udumbFneog0IKp3BheWxvYWTESpcCEcQgwFbgtM4U25KGGwAyNaMKWcWVYfxI/sfs1bs3I82qkWLEIB6kw6SI2+Pk6mrK2ZiWS++JRXxq08svAalBF7QKi0vgAgHCo3NpZ8RA3/a+f6ZNDh10OoHcB6QFDFszWbOZDRrDmdQnF48Ebcn7Ef/mpeR/HGNFTqc781AxILcP6UdL0hFUOlPkGgTfDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGBoRIdPoa4ObLZTjPhSz8++VuFgNBw/azJvZQRG5n8Lo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/elyth4002
+
+==================================================================
